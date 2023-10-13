@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @navillustan
 - 👀 I’m interested in data analytics, data science, patient healthcare analytics and natural language processing
-- 🌱 I’m currently learning SQL. I am also 1 course into the IBM data science professonial certificate on Coursera
+- 🌱 I recently earned a Master's in Data Science from Eastern University
 - 📫 How to reach me https://www.linkedin.com/in/navillustan/
 
 <!---
